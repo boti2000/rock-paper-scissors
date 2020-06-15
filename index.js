@@ -1,3 +1,5 @@
+console.log('Hello')
+
 var arr = ['rock', 'paper', 'scissors'];
 var userChoice = prompt('Do you choose rock, paper or scissors?');
 
